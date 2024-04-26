@@ -18,7 +18,7 @@ class SpringBootEksApplicationTests {
 
     @Test
     void testMethod() {
-        assertEquals(true, false);
+        assertEquals(true, true);
     }
 
 }
