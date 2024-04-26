@@ -60,7 +60,7 @@
 			</plugin>
 		</plugins>
 
-    <finalName>docker-jenkins-integration-sample</finalName>
+    <finalName>docker-jenkinsFile</finalName>
 </build>
 
 </project>
